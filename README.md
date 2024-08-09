@@ -5,6 +5,7 @@
 - 📫 How to reach me: mehulgadthariya@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy playing chess and carrom in my free time!
+- 📦 I will soon be posting another repository, so stay tuned!
 
 <!---
 mehulgadthariya/mehulgadthariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
